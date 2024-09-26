@@ -21,3 +21,13 @@ The project is divided into two main components:
 - Gaussian Filter: Applies Gaussian blur to images.
 - Sepia Filter: Applies a warm tone effect to images.
 - Sobel Edge Detection: The Python component focuses on the Sobel operator for edge detection, showcasing its application in image processing.
+
+## results 
+- Initial image:
+![Screenshot 2024-07-07 171548](https://github.com/user-attachments/assets/b9266c6d-879c-447f-8b7d-a3f6b8aae2be)
+- Sobel Edge Detection:
+![output_image_thresholded](https://github.com/user-attachments/assets/2432e5b7-df77-4948-bf27-ae40a52523e3)
+- Gaussian Filter
+![output](https://github.com/user-attachments/assets/a43545f5-d9d4-43b7-9008-10e5702df191)
+- Sepia Filter
+ ![output](https://github.com/user-attachments/assets/6acc80cf-76c8-469a-b842-3ad77cb468cf)
